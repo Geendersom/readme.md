@@ -4,6 +4,10 @@ Atuo com foco em aplicações web, automações e soluções orientadas à perfo
 Trabalho principalmente com <b>JavaScript, HTML, CSS e TypeScript</b>, com experiência na 
 criação de sistemas organizados, escaláveis e funcionais.
 
+I focus on web applications, automation, and performance-oriented solutions. 
+I mainly work with <b>JavaScript, HTML, CSS, and TypeScript</b>, with experience 
+in building organized, scalable, and functional systems.
+
 ###
 
 <div align="center">
