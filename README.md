@@ -28,13 +28,11 @@ in building organized, scalable, and functional systems.
 
 ###
 
-<div align="center">
-  <!-- Removed github-readme-stats card that caused a broken image icon -->
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 
-</div>
+<p align="center">
+  <img src="./profile-summary-card-output/languages.svg" alt="Most used languages" />
+</p>
+
 
 ###
 
