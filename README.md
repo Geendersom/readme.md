@@ -28,9 +28,11 @@ in building organized, scalable, and functional systems.
 
 ###
 
-<p align="center">
-  <img src="profile-summary-card-output/languages.svg" alt="Most used languages" />
-</p>
+<div align="center">
+
+[![](https://raw.githubusercontent.com/Geendersom/Geendersom/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Geendersom/Geendersom/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 ###
 
